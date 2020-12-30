@@ -7,7 +7,7 @@ var config = {
     use3dTerrain: false,
     title: 'CAMSTL',
     subtitle: 'Centro Audiovisual Max Stahl Timor Leste',
-    byline: 'The importance of The Archive derives from the crucial role that audiovisual material played in the East Timorese struggle for self-determination and human rights. That struggle was captured in the faces and the voices of this very dedicated, resilient and persistent people by International film-maker Max Stahl on over 3000 hours of film and audio recording.',
+    byline: 'The importance of The Archive derives from the crucial role that audiovisual material played in the East Timorese struggle for self-determination and human rights. That struggle was captured in the faces and the voices of this very dedicated, resilient and persistent people by International film-maker Max Stahl on over 6000 hours of film and audio recording.',
     footer: '&copy; 2020  [ Rua Formosa No.19. Vera Cruz, Suco Colmera, Rai Nain. Dili, Timor-Leste ]',
         
     chapters: [
